@@ -10,4 +10,4 @@ In this command handler you will get advanced features like:
 * Only Owners command types
 * many more.
 
-Check this Video tutorial here: https://youtube.com
+Check this Video tutorial here: https://www.youtube.com/channel/UC8HoU-V9m12CLScBgMEinvA
